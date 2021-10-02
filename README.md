@@ -10,7 +10,7 @@
 
 # :computer: Main window
 <p align="center">
-  <img src="https://i.ibb.co/8c1fb1Q/Impulse-Main.png">
+  <img src="https://i.ibb.co/XxZg8bW/image.png">
 </p>
 
 # :satellite: Methods:
@@ -56,8 +56,9 @@
 ```python3 smbomber.py --method SMS --time 20 --threads 15 --target +380123456789```
 
 <p align="center">
-  <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
+  <img src="https://i.ibb.co/fqZvz8B/image.png">
 </p>
 
 # :moneybag: Donate:
-
+DonationAlerts: https://www.donationalerts.com/r/nonplay
+Card: 4048415039135328
