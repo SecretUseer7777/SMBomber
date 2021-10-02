@@ -31,10 +31,10 @@
 * Windows:
   * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
   * Launch installer, click `add python to PATH`
-  * Download Impulse
-  * Open cmd or powershell in Impulse directory
+  * Download SMBomber
+  * Open cmd or powershell in SMBomber directory
   * Run this command: `pip install -r requirements.txt`
-  * And this: `python impulse.py --help`
+  * And this: `python smbomber.py --help`
 
 * Linux:
   * `sudo apt update`
@@ -42,7 +42,7 @@
   * `git clone https://github.com/NONPLAYT/smbomber`
   * `cd Impulse/`
   * `pip3 install -r requirements.txt`
-  * `python3 impulse.py --help`
+  * `python3 smbomber.py --help`
 
 * Termux:
   * `pkg update`
@@ -50,7 +50,7 @@
   * `git clone https://github.com/NONPLAYT/smbomber`
   * `cd Impulse/`
   * `pip3 install -r requirements.txt`
-  * `python3 impulse.py --help`
+  * `python3 smbomber.py --help`
 
 # :phone: Example SMS & Call flood:
 ```python3 smbomber.py --method SMS --time 20 --threads 15 --target +380123456789```
