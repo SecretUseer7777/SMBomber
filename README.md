@@ -1,3 +1,8 @@
+
+
+# Maybe I will never update it, or maybe I will add a couple of new services
+
+
 # :bomb: SMBomber
 ## Modern Denial-of-service ToolKit
 
@@ -10,7 +15,7 @@
 
 # :computer: Main window
 <p align="center">
-  <img src="https://i.ibb.co/8c1fb1Q/Impulse-Main.png">
+  <img src="https://i.ibb.co/XxZg8bW/image.png">
 </p>
 
 # :satellite: Methods:
@@ -31,33 +36,34 @@
 * Windows:
   * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
   * Launch installer, click `add python to PATH`
-  * Download Impulse
-  * Open cmd or powershell in Impulse directory
+  * Download SMBomber
+  * Open cmd or powershell in SMBomber directory
   * Run this command: `pip install -r requirements.txt`
-  * And this: `python impulse.py --help`
+  * And this: `python smbomber.py --help`
 
 * Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
   * `git clone https://github.com/NONPLAYT/smbomber`
-  * `cd Impulse/`
+  * `cd smbomber`
   * `pip3 install -r requirements.txt`
-  * `python3 impulse.py --help`
+  * `python3 smbomber.py --help`
 
 * Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
   * `git clone https://github.com/NONPLAYT/smbomber`
-  * `cd Impulse/`
+  * `cd smbomber`
   * `pip3 install -r requirements.txt`
-  * `python3 impulse.py --help`
+  * `python3 smbomber.py --help`
 
 # :phone: Example SMS & Call flood:
 ```python3 smbomber.py --method SMS --time 20 --threads 15 --target +380123456789```
 
 <p align="center">
-  <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
+  <img src="https://i.ibb.co/fqZvz8B/image.png">
 </p>
 
 # :moneybag: Donate:
-
+DonationAlerts: https://www.donationalerts.com/r/nonplay
+Card: 4048415039135328
