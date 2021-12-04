@@ -1,6 +1,3 @@
-
-# Version 2.0 is available. Upgrade [here](https://github.com/NONPLAYT/SMBomber-2.0)
-
 # :bomb: SMBomber
 ## Modern Denial-of-service ToolKit
 
