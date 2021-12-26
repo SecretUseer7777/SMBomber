@@ -1,3 +1,5 @@
+### I will release new updates soon, check BX Team [projects](https://github.com/orgs/BX-Team/projects/1) page
+
 # :bomb: SMBomber
 ## Modern Denial-of-service ToolKit
 
@@ -39,7 +41,7 @@
 * Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
-  * `git clone https://github.com/NONPLAYT/smbomber`
+  * `git clone https://github.com/BX-Team/SMBomber`
   * `cd smbomber`
   * `pip3 install -r requirements.txt`
   * `python3 smbomber.py --help`
@@ -47,7 +49,7 @@
 * Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
-  * `git clone https://github.com/NONPLAYT/smbomber`
+  * `git clone https://github.com/BX-Team/SMBomber`
   * `cd smbomber`
   * `pip3 install -r requirements.txt`
   * `python3 smbomber.py --help`
@@ -61,4 +63,7 @@
 
 # :moneybag: Donate:
 DonationAlerts: https://www.donationalerts.com/r/nonplay
-Card: 4048415039135328
+
+Patreon: https://www.patreon.com/nonplay
+
+MasterCard: 4048415039135328
