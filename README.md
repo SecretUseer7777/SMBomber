@@ -1,5 +1,3 @@
-### I will release new updates soon, check BX Team [projects](https://github.com/orgs/BX-Team/projects/1) page
-
 # :bomb: SMBomber
 ## Modern Denial-of-service ToolKit
 
@@ -30,6 +28,12 @@
 | Memcached            | IP:PORT    | A memcached distributed denial-of-service (DDoS) attack is a type of cyber attack in which an attacker attempts to overload a targeted victim with internet traffic. The attacker spoofs requests to a vulnerable UDP memcached* server, which then floods a targeted victim with internet traffic, potentially overwhelming the victim’s resources. While the target’s internet infrastructure is overloaded, new requests cannot be processed and regular traffic is unable to access the internet resource, resulting in denial-of-service. |
 
 # :gift: Installation:
+* Via `pip install`:
+  * Start your terminal, cmd and etc.
+  * Enter `pip install SMBomber` or `pip3` if you are on linux
+  * Wait for install
+  * Run `smbomber --help`
+  
 * Windows:
   * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
   * Launch installer, click `add python to PATH`
@@ -67,3 +71,6 @@ DonationAlerts: https://www.donationalerts.com/r/nonplay
 Patreon: https://www.patreon.com/nonplay
 
 MasterCard: 4048415039135328
+
+# :briefcase: Experiment builds
+You can use dev. builds with new features. You need to go [here](https://test.pypi.org/project/SMBomber/) and copy the command and paste it in your terminal to download!
