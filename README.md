@@ -1,18 +1,29 @@
-### I will release new updates soon, check BX Team [projects](https://github.com/orgs/BX-Team/projects/1) page
-
-# :bomb: SMBomber
-## Modern Denial-of-service ToolKit
-
-
+<div align="center">
+  
 ░██████╗███╗░░░███╗██████╗░░█████╗░███╗░░░███╗██████╗░███████╗██████╗░
 ██╔════╝████╗░████║██╔══██╗██╔══██╗████╗░████║██╔══██╗██╔════╝██╔══██╗
 ╚█████╗░██╔████╔██║██████╦╝██║░░██║██╔████╔██║██████╦╝█████╗░░██████╔╝
 ░╚═══██╗██║╚██╔╝██║██╔══██╗██║░░██║██║╚██╔╝██║██╔══██╗██╔══╝░░██╔══██╗
 ██████╔╝██║░╚═╝░██║██████╦╝╚█████╔╝██║░╚═╝░██║██████╦╝███████╗██║░░██║
+  
+  <a href="#">
+    <img src="https://img.shields.io/pypi/v/SMBomber?style=for-the-badge" alt="Ver">
+  </a>
 
+  
+  <a href="#">
+    <img src="https://img.shields.io/pypi/pyversions/SMBomber?label=Python%20Version&style=for-the-badge" alt="python ver">
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/pypi/l/SMBomber?style=for-the-badge" alt="license">
+  </a>
+
+  <div align="left">
+    
 # :computer: Main window
 <p align="center">
-  <img src="https://i.ibb.co/XxZg8bW/image.png">
+  <img src="https://user-images.githubusercontent.com/76615486/147564233-167d52f0-2f7f-425a-a6a9-f7a1eac250cc.png">
 </p>
 
 # :satellite: Methods:
@@ -30,8 +41,14 @@
 | Memcached            | IP:PORT    | A memcached distributed denial-of-service (DDoS) attack is a type of cyber attack in which an attacker attempts to overload a targeted victim with internet traffic. The attacker spoofs requests to a vulnerable UDP memcached* server, which then floods a targeted victim with internet traffic, potentially overwhelming the victim’s resources. While the target’s internet infrastructure is overloaded, new requests cannot be processed and regular traffic is unable to access the internet resource, resulting in denial-of-service. |
 
 # :gift: Installation:
+* Via `pip install`:
+  * Start your terminal, cmd and etc.
+  * Enter `pip install SMBomber` or `pip3` if you are on linux
+  * Wait for install
+  * Run `smbomber --help`
+    
 * Windows:
-  * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
+  * Download Python 3.8+ from [here](https://www.python.org/downloads/release/python-38)
   * Launch installer, click `add python to PATH`
   * Download SMBomber
   * Open cmd or powershell in SMBomber directory
@@ -58,7 +75,7 @@
 ```python3 smbomber.py --method SMS --time 20 --threads 15 --target +380123456789```
 
 <p align="center">
-  <img src="https://i.ibb.co/fqZvz8B/image.png">
+  <img src="https://user-images.githubusercontent.com/76615486/147564193-dfa00669-3f74-42b6-86e6-7d57718653f7.png">
 </p>
 
 # :moneybag: Donate:
@@ -67,3 +84,6 @@ DonationAlerts: https://www.donationalerts.com/r/nonplay
 Patreon: https://www.patreon.com/nonplay
 
 MasterCard: 4048415039135328
+    
+# :briefcase: Experiment builds
+You can use dev. builds with new features. You need to go [here](https://test.pypi.org/project/SMBomber/) and copy the command and paste it in your terminal to download dev. builds
