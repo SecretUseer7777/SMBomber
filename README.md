@@ -6,7 +6,7 @@
 ░╚═══██╗██║╚██╔╝██║██╔══██╗██║░░██║██║╚██╔╝██║██╔══██╗██╔══╝░░██╔══██╗
 ██████╔╝██║░╚═╝░██║██████╦╝╚█████╔╝██║░╚═╝░██║██████╦╝███████╗██║░░██║
   
-  <a href="#">
+  <a href="https://pypi.org/project/SMBomber/">
     <img src="https://img.shields.io/pypi/v/SMBomber?style=for-the-badge" alt="Ver">
   </a>
 
