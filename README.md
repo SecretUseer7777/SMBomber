@@ -73,4 +73,4 @@ Patreon: https://www.patreon.com/nonplay
 MasterCard: 4048415039135328
 
 # :briefcase: Experiment builds
-You can use dev. builds with new features. You need to go [here](https://test.pypi.org/project/SMBomber/) and copy the command and paste it in your terminal to download!
+You can use dev. builds with new features. You need to go [here](https://test.pypi.org/project/SMBomber/) and copy the command and paste it in your terminal to download dev. builds
