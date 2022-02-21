@@ -74,11 +74,7 @@
 </p>
 
 # 💰 Donate:
-DonationAlerts: https://www.donationalerts.com/r/nonplay
 
-Patreon: https://www.patreon.com/nonplay
+Patreon: https://www.patreon.com/BXTeam
 
 MasterCard: 4048415039135328
-    
-# 💼 Development builds (Test-PyPi)
-You can use dev. builds with new features. You need to go [here](https://test.pypi.org/project/SMBomber/) and copy the command and paste it in your terminal to download dev. builds. I will not add download via `pip install smbomber`, only via Test-PyPi and URL
